@@ -288,4 +288,4 @@ generator client {
 - Check out the [Prisma docs](https://www.prisma.io/docs)
 - Share your feedback in the [Prisma Discord](https://pris.ly/discord/)
 - Create issues and ask questions on [GitHub](https://github.com/prisma/prisma/)
-- Watch our biweekly "What's new in Prisma" livestreams on [Youtube](https://www.youtube.com/channel/UCptAHlN1gdwD89tFM3ENb6w)
+- Watch our biweekly "What's new in Prisma" livestreams on [Youtube](https://www.youtube.com/channel/UCptAHlN1gdwD89tFM3ENb6w)
