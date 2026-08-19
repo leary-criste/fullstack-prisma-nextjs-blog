@@ -16,4 +16,4 @@ export default async function handle(req: NextApiRequest, res: NextApiResponse) 
   } else {
     res.status(401).send({ message: 'Unauthorized' })
   }
-}
+}
